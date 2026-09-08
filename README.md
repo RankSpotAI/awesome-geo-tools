@@ -112,6 +112,7 @@ A different question from visibility: not "does AI mention me" but "does AI even
 - **[Cloudflare AI Crawl Control](https://www.cloudflare.com/)**, per-bot visibility and control, free on existing plans.
 - **[Cairrot-Inc/cloudflare-ai-crawler-tracker](https://github.com/Cairrot-Inc/cloudflare-ai-crawler-tracker)**, self-hosted edge worker if you want the raw log.
 - **[Scrunch](https://scrunch.com/)** includes crawler-level analytics alongside its monitoring.
+- **[AI Visibility Checker](https://ai-visibility.lastminutedealshq.com/)**, free, no signup: paste a domain and it reports which AI crawlers (GPTBot, ClaudeBot, PerplexityBot, Google-Extended and others) its robots.txt blocks or allows, plus llms.txt validation. Backed by an original crawl of 2,771 sites' robots.txt files, [published as open data](https://ai-visibility.lastminutedealshq.com/data): 19.3% block GPTBot, and 44.5% of the sites that block GPTBot also block the crawler that actually feeds ChatGPT and Perplexity citations.
 - **Your own access logs**, which nobody sells you and which contain the answer.
 
 ## Also in the category
