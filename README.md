@@ -54,6 +54,7 @@ Built for this job and nothing else.
 | [AthenaHQ](https://www.athenahq.ai/) | ChatGPT, Perplexity, AIO, AI Mode, Gemini, Claude, Copilot, Grok, DeepSeek, Meta AI | Continuous | Free tier, then $295 | Paid add-on | No |
 | [RankSpot](https://www.rankspot.ai/) | ChatGPT, Claude, Gemini, AIO | Weekly | $99 | Via MCP | Yes |
 | [Scrunch](https://scrunch.com/) | ChatGPT, Perplexity, Claude, Gemini, Copilot | Not published | Not published | Not published | No |
+| [Howseen](https://howseen.ai/) | ChatGPT, Perplexity, Gemini, Google AI Overviews, AI Mode | Every 3 days | €79 | No | No |
 
 A note on reading that table honestly: Rankscale covers by far the most engines for the least money, Otterly has the lowest entry price, and Profound has the deepest enterprise story. RankSpot refreshes weekly where most of this table refreshes daily, which matters if you are in a fast-moving market.
 
@@ -77,6 +78,7 @@ Most of this category reports a number and stops. These go further and change so
 - **[Scrunch](https://scrunch.com/)** delivers AI-optimised content to crawlers through its Agent Experience Platform.
 - **[AthenaHQ](https://www.athenahq.ai/)** includes a content optimisation agent.
 - **[RankSpot](https://www.rankspot.ai/)** generates and publishes articles and produces a weekly prioritised action list.
+- **[Howseen](https://howseen.ai/)** writes and publishes GEO articles to your CMS from the gaps it finds, and ships white-label reports for agencies.
 
 Worth deciding early which kind you want, because measurement tools and action tools are priced and evaluated completely differently.
 
