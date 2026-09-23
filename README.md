@@ -104,6 +104,7 @@ Before paying anyone, these cost nothing and answer most of the early questions.
 - **Check your server logs** for `GPTBot`, `ClaudeBot`, `PerplexityBot`, `Google-Extended`, `CCBot`, `Bytespider` and `Meta-ExternalAgent`. If none of them appear, no tool will fix that, your content is not being fetched.
 - **[Cloudflare AI Crawl Control](https://www.cloudflare.com/)**, free if you are already on Cloudflare, shows which AI crawlers hit your site and lets you allow or block them per bot.
 - **Free tiers.** AthenaHQ has a free tier with starting credit, and several tools listed below run free one-off checkers.
+- **[AI Visibility Audit](https://ai-visibility.rowb.app/)**, free one-off checker (3 audits/day without signup, 50/month with a free key). Reads your robots.txt AI-bot rules, llms.txt, JSON-LD, meta tags and sitemap and returns a score with fixes; also callable as a remote MCP tool (`audit_website`). Built by [rowb](https://rowb.app/) — disclosure: this is a self-submission.
 
 ## AI crawler analytics
 
