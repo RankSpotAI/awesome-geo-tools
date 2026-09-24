@@ -64,6 +64,7 @@ If you already pay for one of these, start here before buying a dedicated tool. 
 | Tool | Engines | Refresh | From | API | MCP |
 | --- | --- | --- | --- | --- | --- |
 | [Ahrefs Brand Radar](https://ahrefs.com/brand-radar) | AIO, Gemini, Perplexity, ChatGPT, Copilot, AI Mode | Daily | $50 custom prompts, or $199 for the AI Visibility Index. Needs a paid Ahrefs plan | Yes | Yes |
+| [Screpy](https://screpy.com/feature/ai-visibility/) | OpenAI, Gemini, Perplexity (Pro) | Not published | $16/mo billed yearly (5 prompts on Pro) | Yes (plan-dependent) | Yes (plan-dependent) |
 | [SE Visible](https://visible.seranking.com/) | AI Mode, AIO, Gemini, Perplexity, ChatGPT. Claude announced | Daily | $99 for 200 prompts | Yes | Yes |
 | [Semrush AI Visibility](https://www.semrush.com/) | ChatGPT, AIO, AI Mode, Gemini, Perplexity, Claude | Daily | ~$99 for 25 prompts and 1 domain | Yes | Yes |
 
