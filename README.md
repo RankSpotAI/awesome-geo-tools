@@ -111,6 +111,7 @@ A different question from visibility: not "does AI mention me" but "does AI even
 
 - **[Cloudflare AI Crawl Control](https://www.cloudflare.com/)**, per-bot visibility and control, free on existing plans.
 - **[Cairrot-Inc/cloudflare-ai-crawler-tracker](https://github.com/Cairrot-Inc/cloudflare-ai-crawler-tracker)**, self-hosted edge worker if you want the raw log.
+- **[Firm Beacon AI Crawler Access Checker](https://www.firmbeacon.co.uk/tools/ai-crawler-check?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_geo_tools)**, a free one-page checker for robots.txt rules affecting AI search, training and content-use crawlers. It reports matching rules for each named bot; it does not test firewall access, indexing or citations.
 - **[Scrunch](https://scrunch.com/)** includes crawler-level analytics alongside its monitoring.
 - **Your own access logs**, which nobody sells you and which contain the answer.
 
