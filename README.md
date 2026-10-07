@@ -54,6 +54,7 @@ Built for this job and nothing else.
 | [AthenaHQ](https://www.athenahq.ai/) | ChatGPT, Perplexity, AIO, AI Mode, Gemini, Claude, Copilot, Grok, DeepSeek, Meta AI | Continuous | Free tier, then $295 | Paid add-on | No |
 | [RankSpot](https://www.rankspot.ai/) | ChatGPT, Claude, Gemini, AIO | Weekly | $99 | Via MCP | Yes |
 | [Scrunch](https://scrunch.com/) | ChatGPT, Perplexity, Claude, Gemini, Copilot | Not published | Not published | Not published | No |
+| [MentionsAPI](https://mentionsapi.com) | ChatGPT, Claude, Gemini, Perplexity, AIO, AI Mode, Copilot | On demand | Free tier | Yes | Yes |
 
 A note on reading that table honestly: Rankscale covers by far the most engines for the least money, Otterly has the lowest entry price, and Profound has the deepest enterprise story. RankSpot refreshes weekly where most of this table refreshes daily, which matters if you are in a fast-moving market.
 
