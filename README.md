@@ -159,3 +159,4 @@ Corrections are especially welcome here, including corrections to entries for to
 ---
 
 Maintained by [RankSpot](https://www.rankspot.ai/). If you want to know whether ChatGPT, Claude and Gemini recommend your brand, that is the problem we work on.
+- [OmniForce](https://www.omniforce.run/) — GEO & AI-search visibility platform (open-source MCP server: [rmb/omniforce-mcp](https://github.com/rmb/omniforce-mcp)).
