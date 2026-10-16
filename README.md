@@ -54,6 +54,7 @@ Built for this job and nothing else.
 | [AthenaHQ](https://www.athenahq.ai/) | ChatGPT, Perplexity, AIO, AI Mode, Gemini, Claude, Copilot, Grok, DeepSeek, Meta AI | Continuous | Free tier, then $295 | Paid add-on | No |
 | [RankSpot](https://www.rankspot.ai/) | ChatGPT, Claude, Gemini, AIO | Weekly | $99 | Via MCP | Yes |
 | [Scrunch](https://scrunch.com/) | ChatGPT, Perplexity, Claude, Gemini, Copilot | Not published | Not published | Not published | No |
+| [Cite42](https://www.cite42.dev/) | ChatGPT, Claude, Perplexity, Gemini, AIO | On demand, or weekly and monthly trackers | No monthly plan. $0.20 per check across all five engines, $25 minimum top-up | Yes | Yes |
 
 A note on reading that table honestly: Rankscale covers by far the most engines for the least money, Otterly has the lowest entry price, and Profound has the deepest enterprise story. RankSpot refreshes weekly where most of this table refreshes daily, which matters if you are in a fast-moving market.
 
