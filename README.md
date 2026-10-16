@@ -54,6 +54,7 @@ Built for this job and nothing else.
 | [AthenaHQ](https://www.athenahq.ai/) | ChatGPT, Perplexity, AIO, AI Mode, Gemini, Claude, Copilot, Grok, DeepSeek, Meta AI | Continuous | Free tier, then $295 | Paid add-on | No |
 | [RankSpot](https://www.rankspot.ai/) | ChatGPT, Claude, Gemini, AIO | Weekly | $99 | Via MCP | Yes |
 | [Scrunch](https://scrunch.com/) | ChatGPT, Perplexity, Claude, Gemini, Copilot | Not published | Not published | Not published | No |
+| [Kliqo AI](https://kliqo.ai/) | 3 per project, chosen from ChatGPT, AIO, AI Mode, Gemini and Copilot. More models are a paid add-on | Daily | $79 for 50 prompts | No | No |
 
 A note on reading that table honestly: Rankscale covers by far the most engines for the least money, Otterly has the lowest entry price, and Profound has the deepest enterprise story. RankSpot refreshes weekly where most of this table refreshes daily, which matters if you are in a fast-moving market.
 
@@ -112,6 +113,7 @@ A different question from visibility: not "does AI mention me" but "does AI even
 - **[Cloudflare AI Crawl Control](https://www.cloudflare.com/)**, per-bot visibility and control, free on existing plans.
 - **[Cairrot-Inc/cloudflare-ai-crawler-tracker](https://github.com/Cairrot-Inc/cloudflare-ai-crawler-tracker)**, self-hosted edge worker if you want the raw log.
 - **[Scrunch](https://scrunch.com/)** includes crawler-level analytics alongside its monitoring.
+- **[Kliqo AI](https://kliqo.ai/)** logs AI crawler visits per page through a Cloudflare Worker and checks each visit against the vendor's published IP ranges. Its [free checker](https://kliqo.ai/tools/ai-crawler-checker) reads a site's robots.txt the way 26 AI crawlers do.
 - **Your own access logs**, which nobody sells you and which contain the answer.
 
 ## Also in the category
