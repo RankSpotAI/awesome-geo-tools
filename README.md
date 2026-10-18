@@ -104,6 +104,7 @@ Before paying anyone, these cost nothing and answer most of the early questions.
 - **Check your server logs** for `GPTBot`, `ClaudeBot`, `PerplexityBot`, `Google-Extended`, `CCBot`, `Bytespider` and `Meta-ExternalAgent`. If none of them appear, no tool will fix that, your content is not being fetched.
 - **[Cloudflare AI Crawl Control](https://www.cloudflare.com/)**, free if you are already on Cloudflare, shows which AI crawlers hit your site and lets you allow or block them per bot.
 - **Free tiers.** AthenaHQ has a free tier with starting credit, and several tools listed below run free one-off checkers.
+- **[Orkkid AI Citation Checker](https://orkkid.com/tools/ai-citation-checker)**, free and no signup: enter a business and its market, see whether ChatGPT and Perplexity cite it for buyer questions, which competitors they cite instead, and which sources feed the answers.
 
 ## AI crawler analytics
 
