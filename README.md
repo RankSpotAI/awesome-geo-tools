@@ -77,6 +77,7 @@ Most of this category reports a number and stops. These go further and change so
 - **[Scrunch](https://scrunch.com/)** delivers AI-optimised content to crawlers through its Agent Experience Platform.
 - **[AthenaHQ](https://www.athenahq.ai/)** includes a content optimisation agent.
 - **[RankSpot](https://www.rankspot.ai/)** generates and publishes articles and produces a weekly prioritised action list.
+- **[Seonix](https://seonix.ai/)** researches keywords, writes articles and publishes them on a schedule to WordPress, Shopify, Webflow, Ghost, Wix or a custom site, and tracks brand mentions in ChatGPT answers.
 
 Worth deciding early which kind you want, because measurement tools and action tools are priced and evaluated completely differently.
 
