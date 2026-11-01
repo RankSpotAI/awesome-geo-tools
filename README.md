@@ -93,6 +93,7 @@ Thin, and worth saying plainly: there is no open-source equivalent of Profound o
 | [aircodelabs/llms-txt-generator](https://github.com/aircodelabs/llms-txt-generator) | Generates llms.txt and llms-full.txt | MIT | 19 | 2025-06-18 |
 | [nermalcat69/astro-llms-generate](https://github.com/nermalcat69/astro-llms-generate) | Minimal llms.txt generator for Astro | MIT | 18 | 2025-08-25 |
 | [Cairrot-Inc/cloudflare-ai-crawler-tracker](https://github.com/Cairrot-Inc/cloudflare-ai-crawler-tracker) | Cloudflare Worker that detects and logs AI crawler traffic at the edge | MIT | 1 | 2026-04-01 |
+| [romangrid/seocheck-cli](https://github.com/romangrid/seocheck-cli) | CLI and Python library that inspects robots.txt AI bot directives (GPTBot, ClaudeBot, PerplexityBot), JSON-LD schemas, and asset payload weights | MIT | 5 | 2026-10-31 |
 
 There are also several open-source MCP servers that audit AI readiness, llms.txt and per-bot robots.txt rules. Those live in [awesome-seo-mcp](https://github.com/RankSpotAI/awesome-seo-mcp#ai-search-visibility-geo-and-aeo).
 
@@ -104,6 +105,7 @@ Before paying anyone, these cost nothing and answer most of the early questions.
 - **Check your server logs** for `GPTBot`, `ClaudeBot`, `PerplexityBot`, `Google-Extended`, `CCBot`, `Bytespider` and `Meta-ExternalAgent`. If none of them appear, no tool will fix that, your content is not being fetched.
 - **[Cloudflare AI Crawl Control](https://www.cloudflare.com/)**, free if you are already on Cloudflare, shows which AI crawlers hit your site and lets you allow or block them per bot.
 - **Free tiers.** AthenaHQ has a free tier with starting credit, and several tools listed below run free one-off checkers.
+- **[SEOCheck-AI](https://seocheck-ai.com/free-seo-check)**, free online scanner inspecting HTTP headers, robots.txt directives for major LLM crawlers, and structured data schemas with zero signup required.
 
 ## AI crawler analytics
 
