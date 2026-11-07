@@ -92,6 +92,7 @@ Thin, and worth saying plainly: there is no open-source equivalent of Profound o
 | [4hse/astro-llms-txt](https://github.com/4hse/astro-llms-txt) | llms.txt generation for Astro sites | MIT | 22 | 2026-04-21 |
 | [aircodelabs/llms-txt-generator](https://github.com/aircodelabs/llms-txt-generator) | Generates llms.txt and llms-full.txt | MIT | 19 | 2025-06-18 |
 | [nermalcat69/astro-llms-generate](https://github.com/nermalcat69/astro-llms-generate) | Minimal llms.txt generator for Astro | MIT | 18 | 2025-08-25 |
+| [cloro-dev/geo-tracker](https://github.com/cloro-dev/geo-tracker) | Self-hosted MCP server that schedules prompts across ChatGPT, Gemini, Google AI Mode and Bing AI Mode, and stores every answer in your own Postgres. Runs on your own cloro API key | MIT | 4 | 2026-10-15 |
 | [Cairrot-Inc/cloudflare-ai-crawler-tracker](https://github.com/Cairrot-Inc/cloudflare-ai-crawler-tracker) | Cloudflare Worker that detects and logs AI crawler traffic at the edge | MIT | 1 | 2026-04-01 |
 
 There are also several open-source MCP servers that audit AI readiness, llms.txt and per-bot robots.txt rules. Those live in [awesome-seo-mcp](https://github.com/RankSpotAI/awesome-seo-mcp#ai-search-visibility-geo-and-aeo).
