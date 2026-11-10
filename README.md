@@ -86,7 +86,7 @@ Thin, and worth saying plainly: open-source equivalents of Profound or Peec are 
 
 | Project | What it does | Licence | Stars | Updated |
 | --- | --- | --- | --- | --- |
-| [elmohq/elmo](https://github.com/elmohq/elmo) | Open-source alternative to Profound and Peec. Self-hosted AI visibility tracker: prompt tracking, citations, competitor share of voice and sentiment across ChatGPT, AI Mode, AIO, Gemini, Copilot, Claude and Grok. Runs on your own scraper and model API keys, with a REST API and MCP server. Managed cloud from $29 | MIT | 585 | 2026-11-10 |
+| [elmohq/elmo](https://github.com/elmohq/elmo) | Open-source alternative to Profound and Peec | MIT | 585 | 2026-11-10 |
 | [alexpospekhov/searchstack-aeo](https://github.com/alexpospekhov/searchstack-aeo) | Open-source AEO, GEO and SEO stack aimed at AI-native founders | none | 97 | 2026-05-04 |
 | [jdillard/sphinx-llms-txt](https://github.com/jdillard/sphinx-llms-txt) | llms.txt generator for Sphinx documentation | MIT | 33 | 2026-08-03 |
 | [apify/actor-llmstxt-generator](https://github.com/apify/actor-llmstxt-generator) | Crawls a site and builds an llms.txt from its content | Apache-2.0 | 32 | 2026-05-25 |
