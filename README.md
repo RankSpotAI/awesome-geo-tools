@@ -82,11 +82,11 @@ Worth deciding early which kind you want, because measurement tools and action t
 
 ## Open source and self-hosted
 
-Thin, and worth saying plainly: open-source equivalents of Profound or Peec are rare. Running real visibility tracking means paying for model calls at volume, which does not suit a free project, so self-hosted trackers run on your own API keys. Most of what exists is tooling around the edges.
+Running real visibility tracking means paying for model calls at volume, so even "free" self-hosted projects require using paid API keys for scraping providers or paid LLM APIs.
 
 | Project | What it does | Licence | Stars | Updated |
 | --- | --- | --- | --- | --- |
-| [elmohq/elmo](https://github.com/elmohq/elmo) | Open-source alternative to Profound and Peec | MIT | 585 | 2026-11-10 |
+| [elmohq/elmo](https://github.com/elmohq/elmo) | Open-source alternative to Profound and Peec | MIT | 672 | 2026-11-18 |
 | [alexpospekhov/searchstack-aeo](https://github.com/alexpospekhov/searchstack-aeo) | Open-source AEO, GEO and SEO stack aimed at AI-native founders | none | 97 | 2026-05-04 |
 | [jdillard/sphinx-llms-txt](https://github.com/jdillard/sphinx-llms-txt) | llms.txt generator for Sphinx documentation | MIT | 33 | 2026-08-03 |
 | [apify/actor-llmstxt-generator](https://github.com/apify/actor-llmstxt-generator) | Crawls a site and builds an llms.txt from its content | Apache-2.0 | 32 | 2026-05-25 |
