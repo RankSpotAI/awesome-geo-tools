@@ -66,6 +66,7 @@ If you already pay for one of these, start here before buying a dedicated tool. 
 | [Ahrefs Brand Radar](https://ahrefs.com/brand-radar) | AIO, Gemini, Perplexity, ChatGPT, Copilot, AI Mode | Daily | $50 custom prompts, or $199 for the AI Visibility Index. Needs a paid Ahrefs plan | Yes | Yes |
 | [SE Visible](https://visible.seranking.com/) | AI Mode, AIO, Gemini, Perplexity, ChatGPT. Claude announced | Daily | $99 for 200 prompts | Yes | Yes |
 | [Semrush AI Visibility](https://www.semrush.com/) | ChatGPT, AIO, AI Mode, Gemini, Perplexity, Claude | Daily | ~$99 for 25 prompts and 1 domain | Yes | Yes |
+| [zaDojo](https://zadojo.com/) | ChatGPT, Gemini, Perplexity, Claude, AIO | Daily, weekly or monthly | €10/month with €10 of usage credits, AI checks billed per prompt and engine | Via MCP | Yes |
 
 Ahrefs is the outlier worth understanding. Its AI Visibility Index is built on a corpus of hundreds of millions of real prompts people actually typed, rather than only the prompts you think to track. That is a genuinely different data asset, and it is priced accordingly.
 
