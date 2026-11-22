@@ -114,6 +114,7 @@ A different question from visibility: not "does AI mention me" but "does AI even
 - **[Cairrot-Inc/cloudflare-ai-crawler-tracker](https://github.com/Cairrot-Inc/cloudflare-ai-crawler-tracker)**, self-hosted edge worker if you want the raw log.
 - **[Scrunch](https://scrunch.com/)** includes crawler-level analytics alongside its monitoring.
 - **Your own access logs**, which nobody sells you and which contain the answer.
+- **[Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker)** checks robots.txt, page directives, and responses for documented OpenAI and Anthropic crawler names; its probes do not verify provider IPs.
 
 ## Also in the category
 
