@@ -54,6 +54,7 @@ Built for this job and nothing else.
 | [AthenaHQ](https://www.athenahq.ai/) | ChatGPT, Perplexity, AIO, AI Mode, Gemini, Claude, Copilot, Grok, DeepSeek, Meta AI | Continuous | Free tier, then $295 | Paid add-on | No |
 | [RankSpot](https://www.rankspot.ai/) | ChatGPT, Claude, Gemini, AIO | Weekly | $99 | Via MCP | Yes |
 | [Scrunch](https://scrunch.com/) | ChatGPT, Perplexity, Claude, Gemini, Copilot | Not published | Not published | Not published | No |
+| [LLMMonitor](https://llmmonitor.io/) | ChatGPT, Claude, Gemini, Google AI Mode, Copilot | Every 4 days on Lite, daily on Standard and Pro | Free tier (3 prompts), then €29 | No | No |
 
 A note on reading that table honestly: Rankscale covers by far the most engines for the least money, Otterly has the lowest entry price, and Profound has the deepest enterprise story. RankSpot refreshes weekly where most of this table refreshes daily, which matters if you are in a fast-moving market.
 
@@ -105,6 +106,7 @@ Before paying anyone, these cost nothing and answer most of the early questions.
 - **Check your server logs** for `GPTBot`, `ClaudeBot`, `PerplexityBot`, `Google-Extended`, `CCBot`, `Bytespider` and `Meta-ExternalAgent`. If none of them appear, no tool will fix that, your content is not being fetched.
 - **[Cloudflare AI Crawl Control](https://www.cloudflare.com/)**, free if you are already on Cloudflare, shows which AI crawlers hit your site and lets you allow or block them per bot.
 - **Free tiers.** AthenaHQ has a free tier with starting credit, and several tools listed below run free one-off checkers.
+- **[LLMMonitor](https://llmmonitor.io/llm-check)** runs two free checkers: a ChatGPT web-search check, and an AEO readiness audit of a URL at [llmmonitor.io/aeo-audit](https://llmmonitor.io/aeo-audit).
 
 ## AI crawler analytics
 
